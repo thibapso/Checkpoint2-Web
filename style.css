@@ -282,7 +282,6 @@ ul {
 
 .icones__rodape {
     display: flex;
-    flex-basis: 100%;
     margin-left: 40px;
 }
 
