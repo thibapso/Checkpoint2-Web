@@ -64,7 +64,6 @@ body {
 }
 
 .navbar__menu .login__button {
-    align-items: center;
     border-style: solid;
     border-radius: 10px;
     border-color: #00ffff;
