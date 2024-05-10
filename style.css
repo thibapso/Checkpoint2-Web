@@ -171,7 +171,7 @@ main {
 
 .user1__foto,
 .user2__foto {
-    width: 70%;
+    width: 80%;
     border-radius: 80px;
     transition: transform 0.3s;
 }
