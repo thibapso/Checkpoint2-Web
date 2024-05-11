@@ -182,13 +182,14 @@ main {
     transform: scale(1.1);
 }
 
-.comecar:hover {
-    background-color: #FFFFFF;
-    border-color: #FFFFFF;
+.comecar {
+    transition: transform 0.3s;
 }
 
 .comecar:hover {
     color: #0C0C23;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
 }
 
 .hero__musica,
