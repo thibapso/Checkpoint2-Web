@@ -123,11 +123,13 @@ main {
 .frase1__user1,
 .frase2__user2 {
     color: #FFFFFF;
+    font-size: 36px;
 }
 
 .frase2__user1,
 .frase1__user2 {
     color: #00ffff;
+    font-size: 36px;
 }
 
 .hero__lorem {
@@ -180,12 +182,13 @@ main {
     transform: scale(1.1);
 }
 
-.comecar {
-    transition: transform 0.3s;
+.comecar:hover {
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
 }
 
 .comecar:hover {
-    transform: scale(1.2);
+    color: #0C0C23;
 }
 
 .hero__musica,
